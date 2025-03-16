@@ -36,7 +36,7 @@ st.markdown(
         }
 
         .stApp {
-            background: url('https://source.unsplash.com/1600x900/?news,media') no-repeat center center fixed;
+            background: url('https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dGVjaG5vbG9neXxlbnwwfHwwfHx8MA%3D%3D') no-repeat center center fixed;
             background-size: cover;
         }
         
